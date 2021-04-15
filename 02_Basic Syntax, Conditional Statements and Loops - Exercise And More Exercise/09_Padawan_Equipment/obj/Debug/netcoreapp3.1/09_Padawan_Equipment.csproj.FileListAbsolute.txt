@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\01._Ages\09_Padawan_Equipment\bin\Debug\netcoreapp3.1\09_Padawan_Equipment.exe
+C:\Users\lenovo\source\repos\01._Ages\09_Padawan_Equipment\bin\Debug\netcoreapp3.1\09_Padawan_Equipment.deps.json
+C:\Users\lenovo\source\repos\01._Ages\09_Padawan_Equipment\bin\Debug\netcoreapp3.1\09_Padawan_Equipment.runtimeconfig.json
+C:\Users\lenovo\source\repos\01._Ages\09_Padawan_Equipment\bin\Debug\netcoreapp3.1\09_Padawan_Equipment.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\01._Ages\09_Padawan_Equipment\bin\Debug\netcoreapp3.1\09_Padawan_Equipment.dll
+C:\Users\lenovo\source\repos\01._Ages\09_Padawan_Equipment\bin\Debug\netcoreapp3.1\09_Padawan_Equipment.pdb
+C:\Users\lenovo\source\repos\01._Ages\09_Padawan_Equipment\obj\Debug\netcoreapp3.1\09_Padawan_Equipment.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\01._Ages\09_Padawan_Equipment\obj\Debug\netcoreapp3.1\09_Padawan_Equipment.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\01._Ages\09_Padawan_Equipment\obj\Debug\netcoreapp3.1\09_Padawan_Equipment.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\01._Ages\09_Padawan_Equipment\obj\Debug\netcoreapp3.1\09_Padawan_Equipment.dll
+C:\Users\lenovo\source\repos\01._Ages\09_Padawan_Equipment\obj\Debug\netcoreapp3.1\09_Padawan_Equipment.pdb
+C:\Users\lenovo\source\repos\01._Ages\09_Padawan_Equipment\obj\Debug\netcoreapp3.1\09_Padawan_Equipment.genruntimeconfig.cache

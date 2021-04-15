@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\01._Ages\02_Division\bin\Debug\netcoreapp3.1\02_Division.exe
+C:\Users\lenovo\source\repos\01._Ages\02_Division\bin\Debug\netcoreapp3.1\02_Division.deps.json
+C:\Users\lenovo\source\repos\01._Ages\02_Division\bin\Debug\netcoreapp3.1\02_Division.runtimeconfig.json
+C:\Users\lenovo\source\repos\01._Ages\02_Division\bin\Debug\netcoreapp3.1\02_Division.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\01._Ages\02_Division\bin\Debug\netcoreapp3.1\02_Division.dll
+C:\Users\lenovo\source\repos\01._Ages\02_Division\bin\Debug\netcoreapp3.1\02_Division.pdb
+C:\Users\lenovo\source\repos\01._Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\01._Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\01._Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\01._Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\01._Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.dll
+C:\Users\lenovo\source\repos\01._Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.pdb
+C:\Users\lenovo\source\repos\01._Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.genruntimeconfig.cache
